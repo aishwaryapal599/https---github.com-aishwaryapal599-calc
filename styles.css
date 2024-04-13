@@ -1,0 +1,14 @@
+.mainBody {
+  background-color: rgb(234, 198, 198);
+}
+.calculator {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  gap: 0.5rem;
+}
+button {
+  height: 60px;
+  width: 60px;
+  font-size: 20px;
+}
